@@ -67,4 +67,8 @@ Here are some ideas to get you started:
 
   <a href="https://www.linkedin.com/in/renato-solart/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
           
-
+<div>
+<a href="https://github.com/rsolart">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsolart&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsolart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
